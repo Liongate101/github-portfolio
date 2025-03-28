@@ -1,5 +1,6 @@
-# Software Engineer
+# Lionel Nelson Content II
 ![About me](https://github.com/Liongate101/github-portfolio/blob/main/assets/about_me.jpg)
+# Software Engineer
 ## Education
 ![My Study](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfYg3JAK4ex6KlFlDkY85Eo9udVNaO6p3d4w&s)
 ![Mimo Education](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKJht4SZsUHqZOR_zW_XJJOosG474aIAMRDQ&s)
