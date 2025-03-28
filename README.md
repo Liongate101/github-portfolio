@@ -44,3 +44,9 @@
 - I love to work out and go on walks
 - SQL is my favorite Language to use
 - I love to bake and cook
+- I love to make connections everywhere I go
+- I am apart of the New Hampshire Army National Guard
+
+## Contact Information
+[Phone](+1 603-438-2529)
+[Email](ContentLionel@gmail.com)
