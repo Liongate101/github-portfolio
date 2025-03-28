@@ -47,6 +47,8 @@
 - I love to make connections everywhere I go
 - I am apart of the New Hampshire Army National Guard
 
-## Contact Information
-- Call Me 603-438-2529
-- Email ContentLionel@gmail.com
+## Contact 
+- Call Me
+[+1 603-438-2529](+1 603-438-2529)
+- Email
+[ContentLionel@gmail.com](ContentLionel@gmail.com)
