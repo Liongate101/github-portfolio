@@ -2,6 +2,8 @@
 [Publication](https://github.com/Liongate101/github-portfolio/blob/main/assets/about_me.jpg)
 ### Education
 [Publication](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfYg3JAK4ex6KlFlDkY85Eo9udVNaO6p3d4w&s)
+[Publication](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKJht4SZsUHqZOR_zW_XJJOosG474aIAMRDQ&s)
+[Publication](https://miro.medium.com/v2/resize:fit:3840/1*TKXSmO_vghw2G5aDRcf2Ww.png)
 - H.S., Digital Life | Nashua High School South High School (_June 2019_)
 - B.S., Computer Science | Arizona State University (_October 2027_)
 - Computer Science, B
@@ -13,14 +15,12 @@
 - Cert., JAVA SCRIPT | Mimo.com (_May 2025_)
 - Cert., C++ | Mimo.com (_May 2025_)
 - Cert., Python | Mimo.com (_June 2025_) 
-[Publication](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKJht4SZsUHqZOR_zW_XJJOosG474aIAMRDQ&s)
-- Cert., Web Development | FreeCodeCamp.com (_June 2025_) 
-[Publication](https://miro.medium.com/v2/resize:fit:3840/1*TKXSmO_vghw2G5aDRcf2Ww.png)
+- Cert., Web Development | FreeCodeCamp.com (_June 2025_)
 - Cert., CLOUD COMPUTING | JanBask Training (_February 2025_)
-[Publication](https://www.janbask.com/assets24/img/Frame-134.png)
 
 ### Work Experience
 Amazon Associate
+[Publication](https://etimg.etb2bimg.com/photo/114184053.cms)
 [Publication](https://github.com/Liongate101/github-portfolio/blob/main/assets/amazon_work.jpg)
 - Use hand-held devices to Scan packages to let customers know there delivery is on there way
 - Teamwork for Pickstage
