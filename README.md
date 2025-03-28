@@ -2,15 +2,21 @@
 [Publication](https://github.com/Liongate101/github-portfolio/blob/main/assets/about_me.jpg)
 ### Education
 [Publication](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfYg3JAK4ex6KlFlDkY85Eo9udVNaO6p3d4w&s)
-- Nashua High School South High School, DIP
-- Arizona State University
+- H.S., Digital Life | Nashua High School South High School (_June 2019_)
+- B.S., Computer Science | Arizona State University (_October 2027_)
 - Computer Science, B
 - 2025-2027
-- Mimo, Cert
+- Cert., HTML | Mimo.com (_March 2024_)
+- Cert., CSS | Mimo.com (_April 2025_)
+- Cert., SQL | Mimo.com (_April 2025_)
+- Cert., JAVA | Mimo.com (_April 2025_)
+- Cert., JAVA SCRIPT | Mimo.com (_May 2025_)
+- Cert., C++ | Mimo.com (_May 2025_)
+- Cert., Python | Mimo.com (_June 2025_) 
 [Publication](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKJht4SZsUHqZOR_zW_XJJOosG474aIAMRDQ&s)
-- FreeCodeCamp, Cert
+- Cert., Web Development | FreeCodeCamp.com (_June 2025_) 
 [Publication](https://miro.medium.com/v2/resize:fit:3840/1*TKXSmO_vghw2G5aDRcf2Ww.png)
-- JanBask Training, Cert
+- Cert., CLOUD COMPUTING | JanBask Training (_February 2025_)
 [Publication](https://www.janbask.com/assets24/img/Frame-134.png)
 
 ### Work Experience
@@ -30,7 +36,7 @@ Amazon Associate
 - Amazon Lifestyle
 
 ### About me
-[Publicaion](https://github.com/Liongate101/github-portfolio/blob/main/assets/airplane_travel.jpg)
+[Publication](https://github.com/Liongate101/github-portfolio/blob/main/assets/airplane_travel.jpg)
 - I dream of traveling around the world
 - I can juggle
 - I love to ance as one of my hobbies
