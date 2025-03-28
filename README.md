@@ -20,7 +20,7 @@
 
 ## Work Experience
 ### Amazon Associate
-![Amazon Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR58KeF3Uu99FbP7aNn1tv6_rW28F1avtcXSQ&s)
+![Amazon Logo](https://simpactful.com/wp-content/uploads/2024/07/Amazon-Warehous.jpg)
 ![Amazon Wear](https://github.com/Liongate101/github-portfolio/blob/main/assets/amazon_work.jpg)
 - Use hand-held devices to Scan packages to let customers know there delivery is on there way
 - Teamwork for Pickstage
