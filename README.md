@@ -1,4 +1,4 @@
-# Lionel Nelson Content II
+# Lionel Nelson Content
 ![About me](https://github.com/Liongate101/github-portfolio/blob/main/assets/about_me.jpg)
 # Software Engineer
 ## Education
