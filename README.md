@@ -1,5 +1,5 @@
 # Software Engineer
-[Publication](https://github.com/Liongate101/github-portfolio/blob/main/assets/about_me.jpg)
+[About me](https://github.com/Liongate101/github-portfolio/blob/main/assets/about_me.jpg)
 ### Education
 [Publication](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfYg3JAK4ex6KlFlDkY85Eo9udVNaO6p3d4w&s)
 [Publication](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKJht4SZsUHqZOR_zW_XJJOosG474aIAMRDQ&s)
