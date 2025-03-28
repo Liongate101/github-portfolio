@@ -39,6 +39,7 @@ Amazon Associate
 [Publication](https://github.com/Liongate101/github-portfolio/blob/main/assets/airplane_travel.jpg)
 - I dream of traveling around the world
 - I can juggle
-- I love to ance as one of my hobbies
+- I love to Dance as one of my hobbies
+- I love to work out and go on walks
 - SQL is my favorite Language to use
 - I love to bake and cook
