@@ -50,6 +50,6 @@
 
 ## Contact 
 - Call Me
-[+1 603-438-2529](+1 603-438-2529)
+- +1 603-438-2529
 - Email
 [ContentLionel@gmail.com](ContentLionel@gmail.com)
