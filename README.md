@@ -17,8 +17,8 @@
 - Cert., CLOUD COMPUTING | JanBask Training (_February 2025_)
   
 ![My Study](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfYg3JAK4ex6KlFlDkY85Eo9udVNaO6p3d4w&s)
-![Mimo Education](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKJht4SZsUHqZOR_zW_XJJOosG474aIAMRDQ&s)
-![Freecodecamp Learning](https://miro.medium.com/v2/resize:fit:3840/1*TKXSmO_vghw2G5aDRcf2Ww.png)
+![Mimo Education]
+![Freecodecamp Learning]
 
 ## Work Experience
 ### Amazon Associate
