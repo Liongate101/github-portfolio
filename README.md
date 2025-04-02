@@ -15,8 +15,6 @@
 - Cert., Python | Mimo.com (_June 2025_) 
 - Cert., Web Development | FreeCodeCamp.com (_June 2025_)
 - Cert., CLOUD COMPUTING | JanBask Training (_February 2025_)
-  
-![My Study](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfYg3JAK4ex6KlFlDkY85Eo9udVNaO6p3d4w&s)
 ## Work Experience
 ### Amazon Associate
 ![Amazon Wear](https://github.com/Liongate101/github-portfolio/blob/main/assets/amazon_work.jpg)
