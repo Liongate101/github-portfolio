@@ -15,15 +15,13 @@
 - Use hand-held devices to Scan packages to let customers know there delivery is on there way
 - Teamwork for Pickstage
 - Bring Packages to the drivers so they deliver them to the customers
+- Provide excellence of teamwork with a hand held device to operate tasks
 
 ## Projects
 ![Software Engineer](https://github.com/Liongate101/github-portfolio/blob/main/assets/software_engineer.jpg)
-- Bruno Mars T-shirts
-- Work Out 
-- Taylor Swift Song Lyrics 
-- Application 
-- Bakery Menu 
-- Amazon Lifestyle
+- Lionel's Work out Tipd
+- SHIENEL Sweet Desserts
+- ELORAS Restaurant
 
 ## About me
 ![Airplane Travel](https://github.com/Liongate101/github-portfolio/blob/main/assets/airplane_travel.jpg)
