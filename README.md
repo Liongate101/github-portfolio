@@ -3,16 +3,10 @@
 # Software Engineer
 ## Education
 - H.S., Digital Life | Nashua High School South High School (_June 2019_)
-- B.S., Computer Science | Arizona State University (_October 2027_)
-- Computer Science, B
-- 2025-2027
 - Cert., HTML | Mimo.com (_March 2024_)
 - Cert., CSS | Mimo.com (_April 2025_)
 - Cert., SQL | Mimo.com (_April 2025_)
-- Cert., JAVA | Mimo.com (_April 2025_)
 - Cert., JAVA SCRIPT | Mimo.com (_May 2025_)
-- Cert., C++ | Mimo.com (_May 2025_)
-- Cert., Python | Mimo.com (_June 2025_) 
 - Cert., Web Development | FreeCodeCamp.com (_June 2025_)
 - Cert., CLOUD COMPUTING | JanBask Training (_February 2025_)
 ## Work Experience
