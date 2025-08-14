@@ -1,7 +1,7 @@
 # Lionel Nelson Content
 ![About me](https://github.com/Liongate101/github-portfolio/blob/main/assets/about_me.jpg)
 # Software Engineer
-## Education
+## Education:
 - Diploma, High School | Nashua High School South High School (_June 2019_)
 - Certificate, HTML | Mimo.com (_March 2024_)
 - Certificate, CSS | Mimo.com (_April 2025_)
@@ -9,7 +9,7 @@
 - Certificate, JAVA SCRIPT | Mimo.com (_October 2025_)
 - Certificate, Web Development | FreeCodeCamp.com (_August 2025_)
 - Certificate, CLOUD COMPUTING | JanBask Training (_February 2025_)
-## Work Experience
+## Work Experience:
 ### Amazon Associate
 ![Amazon Wear](https://github.com/Liongate101/github-portfolio/blob/main/assets/amazon_work.jpg)
 - Use hand-held devices to Scan packages to let customers know there delivery is on there way
@@ -17,13 +17,13 @@
 - Bring Packages to the drivers so they deliver them to the customers
 - Provide excellence of teamwork with a hand held device to operate tasks
 
-## Projects
+## Projects:
 ![Software Engineer](https://github.com/Liongate101/github-portfolio/blob/main/assets/software_engineer.jpg)
 - Lionel's Work out Tips
 - SHIENEL Sweet Desserts
 - ELORAS Restaurant
 
-## About me
+## About me:
 ![Airplane Travel](https://github.com/Liongate101/github-portfolio/blob/main/assets/airplane_travel.jpg)
 - I dream of traveling around the world
 - I can juggle
@@ -35,6 +35,8 @@
 - I am apart of the New Hampshire Army National Guard
 
 ## Contact 
-### Call Me
+### Call Me:
 - +1 603-438-2529
+
+### Email me:
 - ContentLionel@gmail.com
