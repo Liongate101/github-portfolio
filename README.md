@@ -33,6 +33,7 @@
 - I love to bake and cook
 - I love to make connections everywhere I go
 - I am apart of the New Hampshire Army National Guard
+- I learned to code since 2022
 
 ## Contact 
 ### Call Me:
