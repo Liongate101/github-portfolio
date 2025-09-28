@@ -6,8 +6,6 @@
 - Certificate, HTML | Mimo.com (_March 2024_)
 - Certificate, CSS | Mimo.com (_April 2025_)
 - Certificate, SQL | Mimo.com (_August 2025_)
-- Certificate, JAVA SCRIPT | Mimo.com (_October 2025_)
-- Certificate, Web Development | FreeCodeCamp.com (_August 2025_)
 - Certificate, CLOUD COMPUTING | JanBask Training (_February 2025_)
 ## Work Experience:
 ### Amazon Associate
@@ -20,8 +18,13 @@
 ## Projects:
 ![Software Engineer](https://github.com/Liongate101/github-portfolio/blob/main/assets/software_engineer.jpg)
 - Lionel's Work out Tips
+- Bruno Mar's Custom T-shirt
 - SHIENEL Sweet Desserts
-- ELORAS Restaurant
+- Ice Cream Flavors
+- Food Lists
+- Job Application
+- Insurance Application
+- Invitation 
 
 ## About me:
 ![Airplane Travel](https://github.com/Liongate101/github-portfolio/blob/main/assets/airplane_travel.jpg)
