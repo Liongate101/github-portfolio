@@ -17,12 +17,16 @@
 
 ## Projects:
 - Lionel's Work Out List
+  ()
   ![Project 1](https://github.com/Liongate101/github-portfolio/blob/main/assets/48D036C9-47DA-471F-B354-3E4F2184D996_1_201_a.jpeg)
 - Bruno Mar's Custom T-shirt
+- (https://sturdy-invention-x5x9rgg5w94vf6jxx.github.dev/)
   ![Project 2](https://github.com/Liongate101/github-portfolio/blob/main/assets/49E7145C-F03D-456E-B5AE-71AB889F76F7_1_201_a.jpeg)
 - Ice Cream Flavors
+  (https://urban-funicular-97wq6gg796gpf95v5.github.dev/)
 ![Project 3](https://github.com/Liongate101/github-portfolio/blob/main/assets/26EF26F0-2CD2-4F2A-AC04-8DF74723F4D3_1_201_a.jpeg)
 - Fruits & Vegetables Benefits
+  (https://curly-disco-4j6gqppj7vxwcjxw.github.dev/)
   ![Project 4](https://github.com/Liongate101/github-portfolio/blob/main/assets/A216A5CE-5EEE-4A92-9613-184E7F1B82D1_1_201_a.jpeg)
 - Job Application
   ![Project 5](https://github.com/Liongate101/github-portfolio/blob/main/assets/F4EE265A-C310-4DB6-98FD-F61D4D2B0B50_1_201_a.jpeg)
