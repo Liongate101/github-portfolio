@@ -16,9 +16,6 @@
 - Provide excellence of teamwork with a hand held device to operate tasks
 
 ## Projects:
-- Lionel's Work Out List
-  ()
-  ![Project 1](https://github.com/Liongate101/github-portfolio/blob/main/assets/48D036C9-47DA-471F-B354-3E4F2184D996_1_201_a.jpeg)
 - Bruno Mar's Custom T-shirt
 - (https://sturdy-invention-x5x9rgg5w94vf6jxx.github.dev/)
   ![Project 2](https://github.com/Liongate101/github-portfolio/blob/main/assets/49E7145C-F03D-456E-B5AE-71AB889F76F7_1_201_a.jpeg)
@@ -28,12 +25,6 @@
 - Fruits & Vegetables Benefits
   (https://curly-disco-4j6gqppj7vxwcjxw.github.dev/)
   ![Project 4](https://github.com/Liongate101/github-portfolio/blob/main/assets/A216A5CE-5EEE-4A92-9613-184E7F1B82D1_1_201_a.jpeg)
-- Job Application
-  ![Project 5](https://github.com/Liongate101/github-portfolio/blob/main/assets/F4EE265A-C310-4DB6-98FD-F61D4D2B0B50_1_201_a.jpeg)
-- Insurance Application
-  ![Project 6](https://github.com/Liongate101/github-portfolio/blob/main/assets/0A2A1660-C021-4A9D-A179-02FB1EEAC50E_1_201_a.jpeg)
-- Invitation
-  ![Project 7](https://github.com/Liongate101/github-portfolio/blob/main/assets/9A8EEE3A-2051-4FBE-A0A3-69C6A1C39B55_1_201_a.jpeg)
 
 ## About me:
 ![Airplane Travel](https://github.com/Liongate101/github-portfolio/blob/main/assets/airplane_travel.jpg)
